@@ -1,23 +1,22 @@
-![Installation Guide For Project Elixir](https://i.imgur.com/42LxtAl.png)
 
-### Installation Guide For Project Elixir on Xiaomi Pocophone F1 (beryllium)
+
+### Installation Guide For FireDroid on Xiaomi Pocophone F1 (beryllium)
 
 > [!Warning]
 > * Your warranty is void. Or valid, probably?
-> * Project Elixir is not responsible for any damage you made to your device. You have been warned!
+> * FireDroid is not responsible for any damage you made to your device. You have been warned!
 > * We are not responsible for anything that may happen to your phone by installing custom ROMs.
 > * We are not responsible for anything that may happen to your phone by installing any kernels.
 > * You do it at your own risk and take the responsibility upon yourself
-> * You are not to blame Project Elixir or its respected developers for any of your loss.
+> * You are not to blame FireDroid or its respected developers for any of your loss.
 >
 > **Basic Notes for all users:**
-> * The provided instructions are for Project Elixir based on Android 14.
+> * The provided instructions are for FireDroid based on Android 14.
 > * These will only work if you follow every section and step precisely
 > * Do not continue after something fails! Contact in support group for help
 > * The device must have an unlocked bootloader & has Platform Tools installed in pc.
 > * If you are moving from any other Android version to Android 14, it is necessary to do CLEAN FLASH (Format Data)
 > * Take a backup for safe side (If you are coming from older Android version or doing a clean flash)
-> * For any queries or help related to Elixir, join our support group : [Tap Here](https://telegram.me/Elixir_Discussion)  
 
 ### Step 1: Download Required Files
 1. Download the latest Android platform tools for Windows from the link below:
@@ -26,8 +25,8 @@
 2. Download the Recovery from the link below:
    - **Recovery Link (Non-Dynamic & System_Ext) [ For Android 14 ]:** [OrangeFox Recovery](https://www.pling.com/p/2117593/)
 
-3. Download the Project Elixir ROM for Xiaomi Pocophone F1 aka Beryllium from a reliable source.
-   - **Project Elixir ROM Link**: [DOWNLOAD](https://projectelixiros.com/device/beryllium)
+3. Download the FireDroid ROM for Xiaomi Pocophone F1 aka Beryllium from a reliable source.
+   - **FireDroid ROM Link**: [DOWNLOAD](https://projectelixiros.com/device/beryllium)
 
 ### Step 2: Install ADB and Boot into Fastboot Mode
 1. Make sure you have ADB (Android Debug Bridge) installed on your computer. 
@@ -90,7 +89,7 @@ Your device will reboot with OrangeFox Recovery installed.
 
 3. Wipe Data and Davlik & cache and then proceed to format data by typing yes. And reboot to recovery again.
 
-### Step 5: Flash Project Elixir ROM
+### Step 5: Flash FireDroid ROM
 
 **System_Ext Non-Dynamic Partitions** `(v4.1 and above versions)` - Clean Flash
 ```
